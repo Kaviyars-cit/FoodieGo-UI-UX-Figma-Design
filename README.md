@@ -22,7 +22,7 @@ To design an engaging, easy-to-navigate food ordering experience that balances a
 - **Loom / Screen Recorder** – Prototype walkthrough demo
 
 ## 🔗 Demo Video
-🎥 [Click here to view the working prototype](https://drive.google.com/file/d/1TfstePEIt6pi7kcn3AFoEVOTjkScad3J/view)  
+🎥 [Click here to view the working prototype](https://drive.google.com/file/d/1FEj2s1OLg4VtoUZFnUIx8ipRIfZfxNmy/view)  
 
 ## 📂 Project Assets
 - `Figma Design File`
